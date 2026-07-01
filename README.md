@@ -1,2 +1,16 @@
-# Python-name-age-greeter
-A beginner Python program that asks the user for their name and age, then prints a personalized welcome message. Built while learning Python input and variables.
+# Project Name
+python-name-age-greeter
+
+## Description
+This project was created while learning Python.
+
+## Features
+- User input
+- Variables
+- Output formatting
+
+## Technologies Used
+- Python 3
+
+## Author
+Samuel Sekasi
